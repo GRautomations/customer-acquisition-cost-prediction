@@ -1,5 +1,25 @@
 # Customer Acquisition Cost Prediction
 
+**Domain:** Marketing Analytics | **Tech:** Python · Scikit-learn · TensorFlow · Pandas
+
+## Problem Statement
+Predict customer acquisition cost to help businesses optimize marketing spend.
+
+## Models Compared
+| Model | R² Score |
+|---|---|
+| Random Forest | 0.9869 |
+| ANN | 0.9862 |
+| Decision Tree | 0.9773 |
+| Gradient Boosting | 0.5066 |
+| Linear Regression | 0.3286 |
+| SVM | 0.0489 |
+
+## Tech Stack
+Python · Scikit-learn · TensorFlow · Pandas · Matplotlib
+
+# Customer Acquisition Cost Prediction
+
 Machine learning project to predict customer acquisition cost (CAC) for Food Mart X media campaigns using multiple regression and ensemble learning models.
 
 ## Project Background
